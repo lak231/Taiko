@@ -12,3 +12,4 @@ I recommend using PCSX2: https://pcsx2.net/
     * If you are using PCSX2, go to CDVD > Iso selector > locate the ROM that you downloaded. 
     * Then, go to Config > Controllers > Plugin Settings > go to the Pad 1 tab > map the L1 button to the key 2 on your keyboard, L2 to 1, R1 to 3, and R2 to 4. You can use a different key mapping by changing the ```robot.keyPress``` in the ```template.java``` file.
     * Finally, go to System > Boot CDVD (full) or Boot CDVD (fast) if you want to skip the default loading screen. 
+3. Keep both of your hands face down above the sensor. Imagine there is a drum in front of you and there are four parts that you can hit: inner left, inner right, outer left and outer right. The two inner parts are for the red circles in the game and the outer parts the blue ones.
